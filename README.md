@@ -1,7 +1,9 @@
-# social_network_analysis
 # Social Network Analysis Tool
 
 This project is a tool for analyzing social networks using various graph algorithms.
+## Used Technologies: - 
+Programming Language: Python
+Libraries: NetworkX, Matplotlib
 
 ## Features
 
