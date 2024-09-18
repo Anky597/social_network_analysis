@@ -14,6 +14,10 @@ Libraries: NetworkX, Matplotlib
 - **Graph Visualization**
 
 ## How to Run
+##updates: - 
+Integration of ploty for 3d mapping along with the animation feature for bfs, dfs and dijkstra
+Next step : - Developing the clustring algorithm using machine learning algorithms
+
 
 1. Install the dependencies:
    ```bash
